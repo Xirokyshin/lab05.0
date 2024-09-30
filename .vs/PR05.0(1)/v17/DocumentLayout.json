@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\PROJECT\\PR05.0(1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEF9F94-87B5-424C-842E-7D46C4540110}|PR05.0(1).vcxproj|D:\\Visual Studio\\PROJECT\\PR05.0(1)\\PR05.0(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEEF9F94-87B5-424C-842E-7D46C4540110}|PR05.0(1).vcxproj|solutionrelative:PR05.0(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR05.0(1).cpp",
+              "DocumentMoniker": "D:\\Visual Studio\\PROJECT\\PR05.0(1)\\PR05.0(1).cpp",
+              "RelativeDocumentMoniker": "PR05.0(1).cpp",
+              "ToolTip": "D:\\Visual Studio\\PROJECT\\PR05.0(1)\\PR05.0(1).cpp",
+              "RelativeToolTip": "PR05.0(1).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T19:17:19.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
